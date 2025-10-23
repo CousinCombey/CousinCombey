@@ -1,13 +1,13 @@
-<!-- Snake/Pixel Style Name Header -->
+<!-- Greeting Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=😎+Hey!+Nice+to+see+you." alt="Greeting"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hey!+Nice+to+see+you.+👋" alt="Greeting"/>
 </div>
 
 <br/>
 
 <!-- Typing Animation - White and Bigger -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=700&lines=Product+Builder+%7C+Fintech+Innovator;Turning+Data+into+Decisions;Co-founding+Gavaa+🚀;Paris+%7C+Finance+%7C+Tech" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Product+Builder+|+Fintech+Innovator;Turning+Data+into+Decisions;Co-founding+Gavaa+🚀;Paris+|+Finance+|+Tech" alt="Typing Animation"/>
 </div>
 
 <br/>
@@ -113,10 +113,14 @@ john.say_hi()
 
 ---
 
-## 🌐 Let's Connect
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjck)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.combey@hotmail.com)
+
+</div>
 
 ---
 
