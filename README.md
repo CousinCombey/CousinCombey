@@ -27,8 +27,6 @@ john.say_hi()
 
 **Co-founding Gavaa to democratize financial access for unbanked SMEs.** I build ML-powered products, data systems, and BI solutions that drive strategic decisions at scale.
 
----
-
 ## Tech Arsenal
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -47,8 +45,6 @@ john.say_hi()
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
-
----
 
 ## What I Build
 
@@ -107,8 +103,6 @@ Scalable solutions delivering measurable business impact
 </tr>
 </table>
 
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -124,15 +118,7 @@ Scalable solutions delivering measurable business impact
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CousinCombey&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CousinCombey&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 </div>
-
----
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -143,24 +129,16 @@ Scalable solutions delivering measurable business impact
 
 </div>
 
----
-
 <div align="center">
   
   ## 💭 Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  ## 😂 Here's a Joke for You
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-  
 </div>
-
----
 
 <div align="center">
   
   ## 🎯 *"Building products that bridge financial gaps"*
-  
   ![Snake animation](https://raw.githubusercontent.com/CousinCombey/CousinCombey/output/github-contribution-grid-snake-dark.svg)
   
   **Made with 💙 and lots of ☕**
