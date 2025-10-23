@@ -1,6 +1,6 @@
 <!-- Greeting Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hey!+Nice+to+see+you.+👋" alt="Greeting"/>
+  <h1>👨‍💻 Hey! Nice to see you.</h1>
 </div>
 
 <br/>
@@ -16,33 +16,51 @@
 
 ### 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```python
-class John:
+# ========================================
+# 💬 Interactive Terminal - Ask John Anything!
+# ========================================
+
+class JohnAI:
     def __init__(self):
+        self.name = "John Kouto"
         self.location = "Paris 🇫🇷"
-        self.current_project = "Gavaa - Fintech for the unbanked"
-        self.skills = ["Product", "Data Science", "ML", "BI"]
-        self.passion = "Building products that matter"
+        self.role = "Product Builder & Fintech Innovator"
+        self.current_mission = "Co-founding Gavaa - Democratizing finance for the unbanked"
+        self.skills = {
+            "product": ["Strategy", "0-to-1 Development", "User Research"],
+            "data_science": ["ML Pipelines", "Predictive Analytics", "Feature Engineering"],
+            "tech": ["Python", "SQL", "TensorFlow", "Power BI", "Docker"],
+            "business": ["Growth Marketing", "A/B Testing", "Market Analysis"]
+        }
         
-    def say_hi(self):
-        print("Let's build something impactful together!")
+    def ask(self, question):
+        responses = {
+            "what do you build?": "🏗️ I build fintech platforms, ML models, and BI systems that bridge financial gaps!",
+            "where are you?": "🗼 Based in Paris, building products for global impact!",
+            "tech stack?": "🛠️ Python | SQL | TensorFlow | Power BI | Docker | Google Cloud",
+            "current project?": "🚀 Gavaa - Alternative credit scoring for unbanked SMEs in emerging markets!",
+            "hire you?": "💼 Let's talk! Shoot me a message on LinkedIn or email!",
+            "collaborate?": "🤝 Always open to exciting projects! Drop me a line!",
+            "coffee?": "☕ Only if you're in Paris! Otherwise, virtual coffee works too!",
+            "fun fact?": "🥊 I practice French Boxing every Thursday and read 4+ self-improvement books yearly!"
+        }
+        return responses.get(question.lower(), "🤔 Interesting question! Let's connect and discuss!")
 
-john = John()
-john.say_hi()
+# Try it out!
+john = JohnAI()
+
+>>> john.ask("what do you build?")
+"🏗️ I build fintech platforms, ML models, and BI systems that bridge financial gaps!"
+
+>>> john.ask("current project?")
+"🚀 Gavaa - Alternative credit scoring for unbanked SMEs in emerging markets!"
+
+>>> john.ask("coffee?")
+"☕ Only if you're in Paris! Otherwise, virtual coffee works too!"
+
+# Your turn! What would you ask? 👇
 ```
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 **Co-founding Gavaa to democratize financial access for unbanked SMEs.** I build ML-powered products, data systems, and BI solutions that drive strategic decisions at scale.
 
