@@ -21,6 +21,7 @@ class John:
 
 john = John()
 john.say_hi()
+
 # Output: "Let's build something impactful together!"
 ```
 
