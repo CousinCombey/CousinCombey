@@ -53,13 +53,58 @@ john.say_hi()
 
 **Building end-to-end financial products and data-driven systems that bridge market gaps.**
 
-- 💰 **Fintech platforms** with alternative credit scoring and real-time data aggregation
-- 🤖 **ML pipelines** for predictive analytics and credit risk assessment  
-- 📊 **Enterprise BI solutions** consolidating multi-source data into actionable dashboards
-- 🏦 **Insurance & retirement tools** with investment strategy frameworks
-- 📈 **Performance marketing campaigns** optimized through A/B testing and data analysis
-- ⚙️ **Business process automation** leveraging low-code platforms and cloud infrastructure
-- 🔗 **API integrations & workflows** that deliver scalable, measurable business impact
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💰 Fintech Platforms
+Alternative credit scoring and real-time data aggregation systems
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 ML Pipelines
+Predictive analytics and credit risk assessment models
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Enterprise BI
+Multi-source data consolidation into actionable dashboards
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🏦 Financial Tools
+Insurance & retirement planning with investment frameworks
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Growth Marketing
+Performance campaigns with A/B testing and data optimization
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Process Automation
+Low-code platforms and cloud infrastructure solutions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" colspan="3" align="center">
+
+### 🔗 API Integrations & Workflows
+Scalable solutions delivering measurable business impact
+
+</td>
+</tr>
+</table>
 
 ---
 
