@@ -2,7 +2,7 @@
 <div align="center">
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50"/>
-    😎 Hey! Nice to see you.
+    Hey! Nice to see you.
   </h1>
 </div>
 
