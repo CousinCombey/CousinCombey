@@ -103,21 +103,6 @@ Scalable solutions delivering measurable business impact
 </tr>
 </table>
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CousinCombey&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousinCombey&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CousinCombey&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CousinCombey&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
-</div>
-
 </div>
 
 <h2 align="center">🌐 Let's Connect</h2>
@@ -131,16 +116,7 @@ Scalable solutions delivering measurable business impact
 
 <div align="center">
   
-  ## 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
-<div align="center">
-  
   ## 🎯 *"Building products that bridge financial gaps"*
   ![Snake animation](https://raw.githubusercontent.com/CousinCombey/CousinCombey/output/github-contribution-grid-snake-dark.svg)
-  
-  **Made with 💙 and lots of ☕**
   
 </div>
