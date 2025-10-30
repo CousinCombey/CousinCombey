@@ -1,9 +1,9 @@
-<!-- Greeting Header with Cool Animated Emoji -->
+<!-- Clean Framed Design -->
 <div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50"/>
-    Hey! Nice to see you.
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
+  <kbd>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=667EEA&center=true&vCenter=true&width=520&height=80&lines=Hey%2C+nice+to+see+you+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </kbd>
 </div>
 
 ## About Me
