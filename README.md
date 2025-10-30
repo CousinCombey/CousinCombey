@@ -7,7 +7,6 @@
 </div>
 
 ## About Me
-
 ```python
 class John:
     def __init__(self):
@@ -105,10 +104,14 @@ Scalable solutions delivering measurable business impact
 
 </div>
 
-<h2 align="center">🌐 Let's Connect</h2>
+<div align="center">
+  
+🌐 Let's Connect
+
+</div>
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjck)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.combey@hotmail.com)
 
@@ -116,7 +119,7 @@ Scalable solutions delivering measurable business impact
 
 <div align="center">
   
-  ## 🎯 *"Building products that bridge financial gaps"*
-  ![Snake animation](https://raw.githubusercontent.com/CousinCombey/CousinCombey/output/github-contribution-grid-snake-dark.svg)
+🎯 *"Building products that bridge financial gaps"*
+![Snake animation](https://raw.githubusercontent.com/CousinCombey/CousinCombey/output/github-contribution-grid-snake-dark.svg)
   
 </div>
